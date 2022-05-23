@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">controles.app</string>
+    <string name="click">string_click</string>
+    <string name="off">string_off</string>
+    <string name="on">string_on</string>
+    <string name="seleccion">string_seleccion</string>
+    <string name="icono_estrella">string_icono</string>
+    <string name="aceptar">string_aceptar</string>
+</resources>
